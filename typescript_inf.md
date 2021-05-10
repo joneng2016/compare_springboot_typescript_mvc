@@ -1,0 +1,1 @@
+zents é o framework de typescript utilizado para as comparações com o springboot.
