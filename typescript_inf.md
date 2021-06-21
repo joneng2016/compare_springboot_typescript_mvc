@@ -48,8 +48,20 @@ Isso não significa desconsiderar por complexo o uso e análise de framework/lib
 Java X Node JS
 https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/javascript.html
  
+Apresenta, dentro de uma estrutura competitiva, o uso das linguagens na resolução de problemas computacionais complexo. O objetivo desta comparação reside avaliar o uso de memória/processamento. É interessante de ser ler, contudo para o estudo que está sendo desenvolvido neste texto - isso não se faz verdade.
+
+A análise aqui presente mostra uma aplicação da linguagem sobre um aspecto baixo nível. Por conta disso, a complexidade presente não se traduz realidade no que tange a diversas aplicações do dia a dia.
+
+Uma situação bastante curiosa é com o php. Isso, pois o PHP utilizado no estudo é o PHP cli. Contudo, na prática se tem a execução do PHP balizada por serviços como nginx/apache2 o que modifica completamente a perforance do mesmo.
+
+Não só a performance vale como também a complexidade de condificação. Isso, pois um código legível é de grande importância para o meio comporativo. Assim sendo, uma empresa pode vir a aceitar perder alguns milissegundos de performance no contraponto de obter um código mais elegante gerando um menor número de bugs a serem resolvidos.
+
+
 Java X TypeScript
 https://www.beyondjava.net/comparing-typescript-java
+
+
+
 
 Typescript Performance
 https://github.com/microsoft/TypeScript/wiki/Performance
