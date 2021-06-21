@@ -63,7 +63,7 @@ https://www.beyondjava.net/comparing-typescript-java
 
 Esse artigo é feito para desenvolvedores Java. Então esse texto apresenta a esse tipo de profissional quais são as vantagens e desvantagens de usar uma linguagem como TypeScript. 
 
-Para isso o artigo apresenta similaridades/diferenças entre ambas as linguagens. Um ponto que é observado pelo texto reside na tipagem de primitivos. <strong>Então, por exemplo enquanto Java força a ocorrência de tipagem, tal como: int fourtyTwo = 42, TypeScript permite omitir a tipagem, tal como let fourtyTwo = 42.</strong> 
+Para isso o artigo apresenta similaridades/diferenças entre ambas as linguagens. Um ponto que é observado pelo texto reside na tipagem de primitivos. Então, por exemplo enquanto Java força a ocorrência de tipagem, tal como: int fourtyTwo = 42, TypeScript permite omitir a tipagem, tal como let fourtyTwo = 42. 
 
 Um dicionário em TypeScript em Java.
 
@@ -92,6 +92,9 @@ https://en.wikipedia.org/wiki/The_Computer_Language_Benchmarks_Game
 
 Desempenho de Memória
 https://spring.io/blog/2015/12/10/spring-boot-memory-performance
+
+Este link apresenta um estudo do Spring-Boot comparado com outras formas de implementação Java utilizando 
+a estrutura mvc Spring. O artigo prova que Spring-Boot tem uma performance em memória heap e non-heap relativamente superior.
 
 How Fast is Spring? 
 https://spring.io/blog/2018/12/12/how-fast-is-spring
@@ -153,3 +156,9 @@ https://www.npmjs.com/package/sequelize-benchmark
 
 Prisma vs. TypeORM
 https://betterprogramming.pub/prisma-vs-typeorm-60d02f9dac64
+
+
+### Heap and No Heap 
+
+https://www.yourkit.com/docs/kb/sizes.jsp
+http://docente.ifrn.edu.br/robinsonalves/disciplinas/estruturas-de-dados/08Heap.pdf
