@@ -61,6 +61,12 @@ Java X TypeScript
 https://www.beyondjava.net/comparing-typescript-java
 
 
+Esse artigo é feito para desenvolvedores Java. Então esse texto apresenta a esse tipo de profissional quais são as vantagens e desvantagens de usar uma linguagem como TypeScript. 
+
+Para isso o artigo apresenta similaridades/diferenças entre ambas as linguagens. Um ponto que é observado pelo texto reside na tipagem de primitivos. <strong>Então, por exemplo enquanto Java força a ocorrência de tipagem, tal como: int fourtyTwo = 42, TypeScript permite omitir a tipagem, tal como let fourtyTwo = 42.</strong> 
+
+Um dicionário em TypeScript em Java.
+
 
 
 Typescript Performance
