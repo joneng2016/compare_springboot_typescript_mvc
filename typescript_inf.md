@@ -160,5 +160,21 @@ https://betterprogramming.pub/prisma-vs-typeorm-60d02f9dac64
 
 ### Heap and No Heap 
 
-https://www.yourkit.com/docs/kb/sizes.jsp
+https://www.yourkit.com/docs/kb/sizes.jsp 
+
 http://docente.ifrn.edu.br/robinsonalves/disciplinas/estruturas-de-dados/08Heap.pdf
+
+## Benchmark
+
+Esse tópico é destinado a técnicas e ferramentas para Benchmark e Profile tanto no que tange a Java como em relação a TypeScript. 
+
+### TypeScript 
+
+Esse abordar os seguintes pontos em relação a TypeScript
+
+* Debug
+* Benchmark
+* Uso de Memória Heap e No Heap
+
+#### Debug-TypeScript
+
