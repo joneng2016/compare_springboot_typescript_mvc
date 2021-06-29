@@ -176,5 +176,15 @@ Esse abordar os seguintes pontos em relação a TypeScript
 * Benchmark
 * Uso de Memória Heap e No Heap
 
+Todos esses três pontos serão estudando utilziando o vscode para tal.
+
 #### Debug-TypeScript
 
+https://code.visualstudio.com/docs/typescript/typescript-debugging
+
+O repositório debug_typescript apresenta um helloworld de como fazer isso. Passos são os seguintes:
+
+* Configurar tsconfig.json com sourceMap:true
+* Compilar o projeto
+* Dar Start usando o Node configurado dentro do VS Code conforme o tutorial apresenta.
+  
