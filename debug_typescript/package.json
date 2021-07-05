@@ -1,0 +1,10 @@
+{
+    "name": "debug-project",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "./node_modules/.bin/tsc && node out/helloword.js"
+    },
+    "dependencies": {
+        "typescript": "^4.3.5"
+    }
+}
