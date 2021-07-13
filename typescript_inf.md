@@ -188,3 +188,7 @@ O repositório debug_typescript apresenta um helloworld de como fazer isso. Pass
 * Compilar o projeto
 * Dar Start usando o Node configurado dentro do VS Code conforme o tutorial apresenta.
   
+
+### Profile em Typescript
+
+A realização do profile em typescript é melhor descrita em: https://nodejs.org/en/docs/guides/simple-profiling/

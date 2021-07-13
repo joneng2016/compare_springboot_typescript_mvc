@@ -1,0 +1,15 @@
+{
+  "name": "profile_typescript",
+  "version": "1.0.0",
+  "description": "the goal of this project is to learn how is better practice to make profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "./node_modules/.bin/tsc && node out/index.js"
+  },
+  "author": "Jonathan Morris Samara",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
