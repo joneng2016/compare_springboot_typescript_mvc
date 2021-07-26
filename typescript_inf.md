@@ -192,3 +192,13 @@ O repositório debug_typescript apresenta um helloworld de como fazer isso. Pass
 ### Profile em Typescript
 
 A realização do profile em typescript é melhor descrita em: https://nodejs.org/en/docs/guides/simple-profiling/
+
+Sugestão:
+
+' 
+
+node --prof index.js
+node --prof-process isolate-0x315def0-24614-v8.log >> process.txt
+vim process.txt 
+
+'  
