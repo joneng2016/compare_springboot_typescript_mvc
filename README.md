@@ -200,3 +200,10 @@ node --prof index.js
 node --prof-process isolate-0x315def0-24614-v8.log >> process.txt
 vim process.txt 
 ```
+
+
+### Profile SpringBoot
+
+Verificar o vídeo
+
+https://www.youtube.com/watch?v=P91tqdWUHE4
